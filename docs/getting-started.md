@@ -35,4 +35,6 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+- important config
+- do this and that
+- also eat some pineapples and other fruit to stay healthy
