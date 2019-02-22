@@ -1,10 +1,13 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+- bulleted information
+- that will help users understand this more
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- it does really important things to make the world much better
+- and it also prevents people from having a bad mood
+- so why wouldn't you use this?
 
 ## Getting started
 
